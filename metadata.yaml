@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43590'
     url: http://www.gutenberg.org/2009/agents/43590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46055#Among-the-Birds-in-Northern-Shires
 gutenberg_issued: '2014-06-21'
 gutenberg_type: Text
 identifiers:
